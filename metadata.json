@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LifeJourney AI - Time Capsule",
+  "description": "An interactive timeline application that reconstructs your life's journey. Upload existing photos from different ages, and let Gemini AI generate the missing pieces to create a complete, 3D rotating musical memory wall.",
+  "requestFramePermissions": []
+}
